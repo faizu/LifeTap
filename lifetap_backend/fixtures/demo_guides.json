@@ -1,0 +1,72 @@
+[
+  {
+    "model": "guides.emergencyguide",
+    "pk": 1,
+    "fields": {"category": "GENERAL", "title": "Stay calm", "step_number": 1, "instruction": "Stay calm and try to keep the patient calm and still."}
+  },
+  {
+    "model": "guides.emergencyguide",
+    "pk": 2,
+    "fields": {"category": "GENERAL", "title": "Call for real help", "step_number": 2, "instruction": "Call local emergency services immediately — this app is a prototype, not a substitute for professional care."}
+  },
+  {
+    "model": "guides.emergencyguide",
+    "pk": 3,
+    "fields": {"category": "GENERAL", "title": "Share location", "step_number": 3, "instruction": "Share the patient's exact location with anyone coming to help."}
+  },
+  {
+    "model": "guides.emergencyguide",
+    "pk": 4,
+    "fields": {"category": "BURN", "title": "Move from heat source", "step_number": 1, "instruction": "Move the person away from the source of heat."}
+  },
+  {
+    "model": "guides.emergencyguide",
+    "pk": 5,
+    "fields": {"category": "BURN", "title": "Cool the area", "step_number": 2, "instruction": "Cool the burnt area under cool (not ice-cold) running water."}
+  },
+  {
+    "model": "guides.emergencyguide",
+    "pk": 6,
+    "fields": {"category": "BURN", "title": "Seek help", "step_number": 3, "instruction": "Seek appropriate emergency medical assistance."}
+  },
+  {
+    "model": "guides.emergencyguide",
+    "pk": 7,
+    "fields": {"category": "BLEEDING", "title": "Apply pressure", "step_number": 1, "instruction": "Apply firm, steady pressure to the wound with a clean cloth."}
+  },
+  {
+    "model": "guides.emergencyguide",
+    "pk": 8,
+    "fields": {"category": "BLEEDING", "title": "Keep pressure on", "step_number": 2, "instruction": "Keep applying pressure and call for emergency help."}
+  },
+  {
+    "model": "guides.emergencyguide",
+    "pk": 9,
+    "fields": {"category": "CHEST_PAIN", "title": "Sit them down", "step_number": 1, "instruction": "Help the person sit down in a comfortable, supported position."}
+  },
+  {
+    "model": "guides.emergencyguide",
+    "pk": 10,
+    "fields": {"category": "CHEST_PAIN", "title": "Call emergency services", "step_number": 2, "instruction": "Call local emergency services right away — chest pain can be serious."}
+  },
+  {
+    "model": "guides.emergencyguide",
+    "pk": 11,
+    "fields": {"category": "UNCONSCIOUS", "title": "Check responsiveness", "step_number": 1, "instruction": "Check if the person responds to voice or touch."}
+  },
+  {
+    "model": "guides.emergencyguide",
+    "pk": 12,
+    "fields": {"category": "UNCONSCIOUS", "title": "Call emergency services immediately", "step_number": 2, "instruction": "Call local emergency services immediately and stay on the line."}
+  },
+  {
+    "model": "guides.emergencyguide",
+    "pk": 13,
+    "fields": {"category": "CHOKING", "title": "Encourage coughing", "step_number": 1, "instruction": "Encourage the person to keep coughing if they can."}
+  },
+  {
+    "model": "guides.emergencyguide",
+    "pk": 14,
+    "fields": {"category": "CHOKING", "title": "Get trained help", "step_number": 2, "instruction": "Call for emergency help or someone trained in first aid immediately."}
+  }
+]

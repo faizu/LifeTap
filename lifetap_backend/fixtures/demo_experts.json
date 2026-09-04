@@ -1,0 +1,38 @@
+[
+  {
+    "model": "experts.expert",
+    "pk": 1,
+    "fields": {
+      "name": "Dr. Kumar (Demo)",
+      "specialization": "EMERGENCY_MEDICINE",
+      "phone": "9999999001",
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "available": true
+    }
+  },
+  {
+    "model": "experts.expert",
+    "pk": 2,
+    "fields": {
+      "name": "Dr. Rao (Demo)",
+      "specialization": "CARDIOLOGY",
+      "phone": "9999999002",
+      "latitude": 12.9352,
+      "longitude": 77.6245,
+      "available": false
+    }
+  },
+  {
+    "model": "experts.expert",
+    "pk": 3,
+    "fields": {
+      "name": "Demo Expert (General)",
+      "specialization": "GENERAL",
+      "phone": "9999999003",
+      "latitude": 13.0100,
+      "longitude": 77.6000,
+      "available": true
+    }
+  }
+]
